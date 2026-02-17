@@ -1,0 +1,4 @@
+# Requirements for Claude and Apify integration
+
+claude-python-sdk
+apify-client
